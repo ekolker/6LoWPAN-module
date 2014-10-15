@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by Cvpcb (2014-08-29 BZR 5106)-product   date = Tue 14 Oct 2014 10:19:09 PM PDT
+Cmp-Mod V01 Created by Cvpcb (2014-08-29 BZR 5106)-product   date = Wed 15 Oct 2014 12:04:11 AM PDT
 
 BeginCmp
 TimeStamp = /543E9CA8;
@@ -214,6 +214,20 @@ BeginCmp
 TimeStamp = /5440C509;
 Reference = R10;
 ValeurCmp = 330R;
+IdModule  = Resistors_SMD:R_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = /543E20DC;
+Reference = R11;
+ValeurCmp = 0;
+IdModule  = Resistors_SMD:R_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = /543E311A;
+Reference = R12;
+ValeurCmp = 0;
 IdModule  = Resistors_SMD:R_0402;
 EndCmp
 
