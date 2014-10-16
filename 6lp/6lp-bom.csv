@@ -1,0 +1,18 @@
+"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
+1;"R5,R4,R11,R12";"Resistors_SMD:R_0402";4;"0";;;
+2;"D1,D2,D3,D4";"LEDs:LED-0603";4;"LED";;;
+3;"AE1";"parts:ANTENNA-SMT-2.45GHz";1;"ANTENNA";;;
+4;"C11";"Capacitors_SMD:C_0402";1;"22pF";;;
+5;"C12";"Capacitors_SMD:C_0402";1;"1.2pF";;;
+6;"C13";"Capacitors_SMD:C_0402";1;"DNP";;;
+7;"L1";"Capacitors_SMD:C_0402";1;"1.8nH";;;
+8;"R7,R8,R9,R10,R1";"Resistors_SMD:R_0402";5;"330R";;;
+9;"T1";"parts:EIA-0805";1;"2450BM15A0015";;;
+10;"C1,C3,C5,C8,C9,C10";"Capacitors_SMD:C_0402";6;"100nF";;;
+11;"C2,C6";"Capacitors_SMD:C_0805";2;"10uF";;;
+12;"C4,C7";"Capacitors_SMD:C_0402";2;"9pF";;;
+13;"FB1";"Capacitors_SMD:C_0603";1;"10uH";;;
+14;"R2,R3,R6";"Resistors_SMD:R_0402";3;"10kR";;;
+15;"U1";"SMD_Packages:QFN-32-1EP";1;"AT86RF233";;;
+16;"X1";"parts:TSX-3225";1;"16.0000MF09Z-AC3";;;
+17;"J1";"parts:MODULE_HEADER_MODULE";1;"MODULE_HEADER";;;
